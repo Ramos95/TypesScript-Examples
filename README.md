@@ -5,7 +5,8 @@ examples of the basic ts usages
 
 ## Content
 * Types
-  * primitives and interfaces
+  * primitives
+  * Interfaces, tuples and enums
   * Generic interfaces
   * mapped types
 * Clasess
